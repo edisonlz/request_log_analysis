@@ -108,7 +108,7 @@ delete_no_use = "delete from %s where date='%s'"
 _db = None
 db_user = "root"
 db_name = "apilog"
-db_passwd = "bxjt@wiyun"
+db_passwd = ""
 
 db_user = "root"
 db_name = "apilog"
